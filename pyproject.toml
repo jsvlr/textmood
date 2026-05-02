@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "textmood"
+version = "0.1.3"
+description = "Colour your terminal output by emotional tone"
+readme = "README.md"
+license = { text = "MIT"}
+requires-python = ">=3.9"
+dependencies = ["rich>=13.0"]
+keywords = ["terminal", "colour", "mood", "emotion", "cli"]
+
+[project-scripts]
+textmood = "textmood.cli:main"
+
+[project-urls]
+Homepage = "https://github/jsvlr/textmood"
