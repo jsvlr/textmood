@@ -17,3 +17,5 @@ textmood = "textmood.cli:main"
 
 [project-urls]
 Homepage = "https://github/jsvlr/textmood"
+Repository = "https://github.com/jsvlr/textmood"
+Issues = "https://github.com/jsvlr/textmood/issues"

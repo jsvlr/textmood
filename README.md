@@ -1,5 +1,10 @@
 # textmood
 
+# textmood
+
+![PyPI](https://img.shields.io/pypi/v/textmood)
+![License](https://img.shields.io/github/license/jsvlr/textmood)
+
 Colour your terminal output by emotional tone.
 
 `textmood` analyses the mood of any text and prints it in a matching colour —
