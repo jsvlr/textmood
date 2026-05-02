@@ -1,7 +1,5 @@
 # textmood
 
-# textmood
-
 ![PyPI](https://img.shields.io/pypi/v/textmood)
 ![License](https://img.shields.io/github/license/jsvlr/textmood)
 
